@@ -31,8 +31,8 @@ The current version is a working rule-based prototype. It does not connect to a 
 - Streamlit
 - pytest
 - GitHub
-- GitHub Actions (planned)
-- Streamlit Community Cloud (planned)
+- GitHub Actions
+- Streamlit Community Cloud
 
 ## How It Works
 
@@ -109,7 +109,7 @@ The expected result is 21 passing tests.
 - Add ticket history and structured reporting.
 - Explore integrations with support platforms.
 - Evaluate language-model integration through a securely configured API.
-- Add continuous integration using GitHub Actions.
+- Expand automated test coverage and CI checks.
 
 ## Project Goals
 
