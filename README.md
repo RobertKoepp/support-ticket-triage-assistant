@@ -13,7 +13,7 @@ The current version is a working rule-based prototype. It does not connect to a 
 
 ## Live Demo
 
-The public demo link will be added after the application is deployed.
+[Launch the Customer Support Ticket Triage Assistant](https://support-ticket-triage-assistant-ap6jzzahpvxqcydepzmkc3.streamlit.app/)
 
 ## Features
 
